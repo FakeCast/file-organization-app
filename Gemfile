@@ -4,6 +4,9 @@ source 'https://rubygems.org'
 # Sinatra as framework
 gem 'sinatra'
 
+# Mongoid
+gem 'mongoid'
+
 # Required to use advanced features of # Sinatra
 gem 'sinatra-contrib'
 
