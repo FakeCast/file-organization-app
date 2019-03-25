@@ -15,7 +15,4 @@ group :test do
   # Test Framework
   gem 'rack-test'
   gem 'rspec'
-
-  # Generate data for tests
-  gem 'factory_bot'
 end
