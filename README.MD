@@ -1,4 +1,4 @@
-# File Organization Trial
+# File Organisation Trial
 In this project, I chose Sinatra framework to develop the application.
 In my opinion, the features provided by the API looks like a microservice and Sinatra is the perfect framework to achieve better results because it don't need to load the middleware applications like in Rails API and can be developed using a single page.
 I chose the Rspec as the tests framework because in my opinion using DSL make the tests much more easy to understand.
