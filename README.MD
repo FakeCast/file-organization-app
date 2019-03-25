@@ -51,4 +51,4 @@ rspec spec/app.rb --format=doc
 I do prefer the '--format=doc' parameter to see what is going on in each test.  
 
 ### Time Spent
-I spent 4 hours on Saturday coding and 2 hours on Monday to review and finish the tests.  
+I spent 4 hours on Sunday coding and 2 hours on Monday to review and finish the tests.  
